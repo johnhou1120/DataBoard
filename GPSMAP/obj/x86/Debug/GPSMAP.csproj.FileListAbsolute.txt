@@ -1,0 +1,10 @@
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\GPSMAP\bin\Debug\GPSMAP.exe
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\GPSMAP\bin\Debug\GPSMAP.pdb
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\GPSMAP\obj\x86\Debug\GPSMAP.Properties.Resources.resources
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\GPSMAP\obj\x86\Debug\GPSMAP.csproj.GenerateResource.Cache
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\GPSMAP\obj\x86\Debug\GPSMAP.exe
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\GPSMAP\obj\x86\Debug\GPSMAP.pdb
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\GPSMAP\obj\x86\Debug\GPSMAP.MainForm.resources
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\GPSMAP\bin\Debug\GPSMAP.exe.config
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\GPSMAP\bin\Debug\MySql.Data.dll
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\GPSMAP\obj\x86\Debug\GPSMAP.csprojResolveAssemblyReference.cache

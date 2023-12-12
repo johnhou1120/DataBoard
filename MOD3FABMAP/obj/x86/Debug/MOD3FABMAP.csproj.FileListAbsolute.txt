@@ -1,0 +1,22 @@
+C:\Users\tingyueh.hou\Desktop\無塵室地圖\MOD3FABMAP\bin\Debug\MOD3FABMAP.exe
+C:\Users\tingyueh.hou\Desktop\無塵室地圖\MOD3FABMAP\bin\Debug\MOD3FABMAP.pdb
+C:\Users\tingyueh.hou\Desktop\無塵室地圖\MOD3FABMAP\obj\x86\Debug\MOD3FABMAP.MForm.resources
+C:\Users\tingyueh.hou\Desktop\無塵室地圖\MOD3FABMAP\obj\x86\Debug\MOD3FABMAP.Properties.Resources.resources
+C:\Users\tingyueh.hou\Desktop\無塵室地圖\MOD3FABMAP\obj\x86\Debug\MOD3FABMAP.csproj.GenerateResource.Cache
+C:\Users\tingyueh.hou\Desktop\無塵室地圖\MOD3FABMAP\obj\x86\Debug\MOD3FABMAP.exe
+C:\Users\tingyueh.hou\Desktop\無塵室地圖\MOD3FABMAP\obj\x86\Debug\MOD3FABMAP.pdb
+C:\Users\tingyueh.hou\Desktop\無塵室地圖\MOD3FABMAP\bin\Debug\HtmlAgilityPack.dll
+C:\Users\tingyueh.hou\Desktop\無塵室地圖\MOD3FABMAP\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\tingyueh.hou\Desktop\無塵室地圖\MOD3FABMAP\bin\Debug\HtmlAgilityPack.xml
+C:\Users\tingyueh.hou\Desktop\無塵室地圖\MOD3FABMAP\obj\x86\Debug\MOD3FABMAP.csprojResolveAssemblyReference.cache
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\MOD3FABMAP\obj\x86\Debug\MOD3FABMAP.exe
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\MOD3FABMAP\obj\x86\Debug\MOD3FABMAP.pdb
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\MOD3FABMAP\obj\x86\Debug\MOD3FABMAP.csprojResolveAssemblyReference.cache
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\MOD3FABMAP\obj\x86\Debug\MOD3FABMAP.MForm.resources
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\MOD3FABMAP\obj\x86\Debug\MOD3FABMAP.Properties.Resources.resources
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\MOD3FABMAP\obj\x86\Debug\MOD3FABMAP.csproj.GenerateResource.Cache
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\MOD3FABMAP\bin\Debug\MOD3FABMAP.exe
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\MOD3FABMAP\bin\Debug\MOD3FABMAP.pdb
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\MOD3FABMAP\bin\Debug\HtmlAgilityPack.dll
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\MOD3FABMAP\bin\Debug\HtmlAgilityPack.pdb
+D:\InnoLux程式\InnoLux MOD3 未完成\無塵室地圖\MOD3FABMAP\bin\Debug\HtmlAgilityPack.xml
